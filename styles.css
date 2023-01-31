@@ -99,7 +99,7 @@ hr{
 }
 
 .section3{
-    background-image: url("./aessets/Fondo2.jpg");
+    background-image: url("aessets/Fondo2.jpg");
     background-size: cover;
     background-position: center;
     min-height: 80vh;
