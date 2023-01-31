@@ -1,0 +1,42 @@
+Img {
+  max-width: 100%;
+}
+
+.navbar-custom {
+    background-color: #d03b40;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+
+.apartado1{
+    background-image: url("/aessets/Fondo1.jpg");
+    background-size: cover;
+    background-position: center;
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+hr{
+    color: white;
+    background-color: white;
+    border: solid;
+    border-width: 10px;
+}
+.titulo1{
+    color: white;
+    max-width: 300px;
+    text-align: center;
+}
+.parrafo1{
+    color: white;
+    max-width: 600px;
+    margin: 1em;
+
+}
