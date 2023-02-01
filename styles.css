@@ -63,6 +63,7 @@ hr {
 .section2 {
   display: flex;
   min-height: 300px;
+  width: 100%;
 }
 
 .redSection {
